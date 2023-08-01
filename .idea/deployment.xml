@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="shu@10.16.39.30:22 (5)" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="shu@10.16.39.30:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_814" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="shu@10.16.39.30:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/shu/hcg2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="shu@10.16.39.30:22 (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_309" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="shu@10.16.39.30:22 (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_315" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="shu@10.16.39.30:22 (5)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/shu/hcg2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="shu@10.16.39.30:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/shu/hcg2" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="shu@10.16.67.248:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/shu/gang" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="shu@10.16.67.248:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="shu@10.16.67.248:22 (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/shu/gang" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="shuyc@10.16.39.17:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/shuyc/hcg/hcg" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
